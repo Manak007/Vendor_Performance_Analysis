@@ -6,8 +6,12 @@ This project evaluates vendor performance and retail inventory dynamics to drive
 Effective inventory and sales management are critical in the retail sector. This project aims to:
 
 1)Identify underperforming brands needing pricing or promotional adjustments 
+
 2)Determine vendor contributions to sales and profits
+
 3)Analyze the cost-benefit of bulk purchasing
+
 4)Investigate inventory turnover inefficiencies
+
 5)Statistically validate differences in vendor profitability
 
