@@ -9,7 +9,7 @@ Effective inventory and sales management are critical in the retail sector. This
 
 2) Determine vendor contributions to sales and profits
 
-3 )Analyze the cost-benefit of bulk purchasing
+3) Analyze the cost-benefit of bulk purchasing
 
 4) Investigate inventory turnover inefficiencies
 
